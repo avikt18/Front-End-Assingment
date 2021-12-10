@@ -1,0 +1,12 @@
+.card-details p{
+    opacity: 0.8;
+    margin: 5px 0;
+}
+
+.avatar {
+    background-color: #F5F5F5;
+    height: 200px;
+    width: 100%;
+    pointer-events: none;
+}
+
